@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gerson",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Jao",
+      "password": "1234"
+    },
+    {
+      "name": "a",
+      "password": "a",
+      "id": 4
+    },
+    {
+      "name": "Erica",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Marcelo",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "Maria",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Ana Paula",
+      "age": "46",
+      "phone": "999991122"
+    },
+    {
+      "id": 2,
+      "name": "Marcos",
+      "age": "29",
+      "phone": "999998888"
+    },
+    {
+      "id": 3,
+      "name": "Ana Luisa",
+      "age": "18",
+      "phone": "999992222"
+    },
+    {
+      "id": 4,
+      "name": "Ligia",
+      "age": "11",
+      "phone": {
+        "home": "999992233",
+        "personal": "999990101"
+      }
+    }
+  ],
+  "profile": {
+    "user": "Admin",
+    "password": "1234"
+  }
+}
