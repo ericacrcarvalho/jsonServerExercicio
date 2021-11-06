@@ -16,19 +16,19 @@
       "id": 4
     },
     {
-      "name": "Erica",
-      "password": "123",
-      "id": 5
-    },
-    {
       "name": "Marcelo",
-      "password": "123",
+      "password": "1234",
       "id": 6
     },
     {
       "name": "Maria",
       "password": "123",
       "id": 7
+    },
+    {
+      "name": "Joana",
+      "password": "123",
+      "id": 8
     }
   ],
   "contacts": [
